@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-22T11:32:09 IST" name="Default suite" finished-at="2021-02-22T11:34:11 IST" duration-ms="121836">
+    <groups>
+    </groups>
+    <test started-at="2021-02-22T11:32:09 IST" name="Default test" finished-at="2021-02-22T11:34:11 IST" duration-ms="121836">
+      <class name="com.khanAcademy.khanAcademyTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.khanAcademy.khanAcademyTest@6a6afff2]" started-at="2021-02-22T11:32:09 IST" name="beforeClass" finished-at="2021-02-22T11:32:42 IST" duration-ms="33230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="login()[pri:0, instance:com.khanAcademy.khanAcademyTest@6a6afff2]" started-at="2021-02-22T11:32:42 IST" name="login" finished-at="2021-02-22T11:34:10 IST" duration-ms="88108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.khanAcademy.khanAcademyTest@6a6afff2]" started-at="2021-02-22T11:34:10 IST" name="afterClass" finished-at="2021-02-22T11:34:11 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.khanAcademy.khanAcademyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
