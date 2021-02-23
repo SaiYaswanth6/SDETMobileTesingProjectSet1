@@ -25,7 +25,7 @@ public class khanAcademyTest {
 		// TODO Auto-generated method stub
 		 public AndroidDriver driver;
 		  @Test
-		  public void login() throws InterruptedException {
+		  public void Test() throws InterruptedException {
 			  
 		    driver.findElement(By.id("org.khanacademy.android:id/tab_bar_button_search")).click();
 		    Thread.sleep(5000);
